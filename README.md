@@ -1,8 +1,8 @@
-# ClanEver Django Template
+# ClanEver DRF App Template
 
 Powered by [cookiecutter](https://github.com/cookiecutter/cookiecutter)
 
-The app section of the [clanever-drf-template](https://github.com/ClanEver/clanever-drf-template). An alternative to `python manage.py startapp xxx`.
+The app part of the [clanever-drf-template](https://github.com/ClanEver/clanever-drf-template). An alternative to `python manage.py startapp xxx`.
 
 ## Usage
 
