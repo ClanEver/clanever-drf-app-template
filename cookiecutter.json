@@ -1,0 +1,8 @@
+{
+    "app_name": "my_app",
+    "model_name": "MyModel",
+    "model_name_snake": "{{ cookiecutter.model_name|to_snake }}",
+    "_extensions": [
+        "jinja2_strcase.StrcaseExtension"
+    ]
+}
