@@ -3,6 +3,7 @@ from django.db import models
 
 from utils.db import BaseModel
 
+
 class {{ cookiecutter.model_name }}(BaseModel):
 
     class Meta:
