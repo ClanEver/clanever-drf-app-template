@@ -1,4 +1,5 @@
-from {{ cookiecutter.project_slug }}.celery import app
+# import your proj celery app !
+# from __your_proj__.celery import app
 
 
 # @app.task
